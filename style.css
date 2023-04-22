@@ -17,7 +17,8 @@ body {
 }
 
 .aaa .more_inf {
-    font-family: fantasy, cursive;
+    font-family: fantasy;
+    font-family:  cursive;
 }
 
 @media (max-width: 768px) {
